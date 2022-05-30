@@ -1,7 +1,7 @@
 {
     "name": "devpac/calculation1",
     "description": "Do calculation from routes.",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
