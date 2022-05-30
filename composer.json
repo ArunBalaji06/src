@@ -1,0 +1,14 @@
+{
+    "name": "devpac/calculation1",
+    "description": "Do calculation from routes.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ArunBalaji06",
+            "email": "arunbalaji@sparkouttech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
