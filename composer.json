@@ -1,5 +1,6 @@
 {
     "name": "devpac/calculation1",
+    "version": "2.0.0",
     "description": "Do calculation from routes.",
     "type": "library",
     "license": "MIT",
@@ -9,7 +10,6 @@
             "email": "arunbalaji@sparkouttech.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "repositories": [
         {
